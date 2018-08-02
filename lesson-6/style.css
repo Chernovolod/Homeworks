@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+
+table {
+    width: 600px;
+    height: 400px;
+    position: relative;
+}
+
+#addRow {
+    cursor: pointer;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+td {
+    width: 33.3%;
+}
